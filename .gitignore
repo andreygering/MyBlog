@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+loacal settings.py
+qb.sqlite3
+qb.sqlite3-journal
+/media
+/static
